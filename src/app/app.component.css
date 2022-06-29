@@ -1,0 +1,6 @@
+input.ng-invalid.ng-touched {
+  border: 2px solid #c51f5d;
+}
+form {
+  background-color: rgb(62, 115, 148);
+}
